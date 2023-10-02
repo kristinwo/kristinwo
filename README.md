@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bioinformatics student at the University of Bern 🐻🇨🇭
 
 <!--
 **kristinwo/kristinwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
